@@ -1,6 +1,6 @@
 # DH-News
 
 <div align="center">
-  <img src="print/Print1.png">
+  <img src="print/Print 1.png">
 </div>
        
