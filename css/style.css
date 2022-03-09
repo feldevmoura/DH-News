@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Rajdhani', sans-serif;
+    justify-content: space-evenly;
+}
+
+h1 {
+    color: #ec183f;
+}
+
+main {
+    width: 800px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+}
+
+.container {
+    width: 100vw;
+    background: #fff;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.redes-sociais {
+    list-style: none;
+    display: flex;
+    margin-left: 250px;
+}
+
+.facebook img {
+    align-self: center;
+    margin-left: 10px;
+}
+
+.instagram img {
+    align-self: center;
+    margin-left: 10px;
+}
+
+.linkedin img {
+    align-self: center;
+    margin-left: 10px;
+}
+
+.youtube img {
+    align-self: center;
+    margin-left: 10px;
+}
+
